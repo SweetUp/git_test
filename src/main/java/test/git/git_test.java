@@ -7,5 +7,6 @@ public class git_test {
         System.out.println("hello，3");
         System.out.println("hello，4");
         System.out.println("hello，5master");
+        System.out.println("hello，5hot");
     }
 }
